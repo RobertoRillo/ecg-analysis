@@ -19,6 +19,7 @@ Antes de ejecutar los notebooks, debes instalar las dependencias del proyecto. P
 
 ## Requerimientos
 
+```bash
 pip install -r requirements.txt
 
 ## Retroalimentación
